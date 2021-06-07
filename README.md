@@ -7,7 +7,7 @@ ___
  <a href ="https://www.linkedin.com/in/saymon-victor-b31704213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-#### I'am Saymon, I am from Brazil
+#### I am Saymon, a Brazilian
 
 
 - I study electronics at the Federal Institute
