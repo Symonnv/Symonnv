@@ -1,5 +1,8 @@
 ### Hello!!! Welcome my profile 👋 
+
 I'am Saymon, I am from Brazil
+
+Electronics student and programming web
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=tokyonight)
