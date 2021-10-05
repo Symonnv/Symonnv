@@ -10,7 +10,6 @@ ___
 
 
 - I study electronics at the Federal Institute
-- I study C programming for microcontrollers
 - I study web programming
 
 ##
@@ -26,7 +25,6 @@ ___
  <img align="center" height="40" width="40" alt:"JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
  <img align="center" height="40" width="40" alt:"Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
  <img align="center" height="40" width="40" alt:"Css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
- <img align="center" height="40" width="40" alt:"C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 </div>
 
 ___
