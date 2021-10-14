@@ -6,11 +6,12 @@ ___
  <a href ="https://www.linkedin.com/in/saymon-victor-b31704213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-#### I am Saymon, a Brazilian :brazil:
+#### I am Saymon, a Brazilian 🇧🇷
 
 
-- I study electronics at the Federal Institute
-- I study web programming
+- I study high school and technical course in electronics at IFPI
+- I study programming with javascript
+- I love learning new things
 
 ##
 
