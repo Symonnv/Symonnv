@@ -6,26 +6,19 @@ ___
  <a href ="https://www.linkedin.com/in/saymon-victor-b31704213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-#### I am Saymon, a Brazilian 🇧🇷
+#### I am Saymon, I am from Brazil
 
 
 - I study high school and technical course in electronics at IFPI
 - I study programming with javascript
-- I love learning new things
+- I intend to learn full stack technologies
+- Web development enthusiast
 
 ##
 
 <div>
  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symonnv&layout=compact&langs_count=16&theme=jolly"/>
-</div>
-
-##
-
-<div>
- <img align="center" height="40" width="40" alt:"JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
- <img align="center" height="40" width="40" alt:"Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
- <img align="center" height="40" width="40" alt:"Css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
 
 ___
