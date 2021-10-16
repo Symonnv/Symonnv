@@ -1,14 +1,13 @@
-### Welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
-___
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="18px">
+### I am Saymon Victor
 
-<div>
- <a href ="mailto:saymonnnvict0r@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href ="https://www.linkedin.com/in/saymon-victor-b31704213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Symonnv)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saymonvictor/)
+ [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saymonnnvict0r@gmail.com)
 
-#### I am Saymon, I am from Brazil
+##
 
-
+- I'm from Brazil 🇧🇷
 - I study high school and technical course in electronics at IFPI
 - I study programming with javascript
 - I intend to learn full stack technologies
@@ -17,8 +16,6 @@ ___
 ##
 
 <div>
- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
- <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symonnv&layout=compact&langs_count=16&theme=jolly"/>
+ <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symonnv&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
-___
