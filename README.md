@@ -8,7 +8,6 @@
 ##
 
 - I'm from Brazil 🇧🇷
-- I study high school and technical course in electronics at IFPI
 - I study programming with javascript
 - I intend to learn full stack technologies
 - Web development enthusiast
