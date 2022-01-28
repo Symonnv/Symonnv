@@ -1,7 +1,7 @@
 # Saymon Victor
 
-[![Linkedin](https://img.shields.io/badge/-Saymon%20Victor-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/saymonvictor/)](https://www.linkedin.com/in/saymonvictor/) 
-[![Gmail](https://img.shields.io/badge/-saymonnnvict0r@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:saymonnnvict0r@gmail.com)](mailto:saymonnnvict0r@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Saymon%20Victor-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=grey&link=https://www.linkedin.com/in/saymonvictor/)](https://www.linkedin.com/in/saymonvictor/) 
+[![Gmail](https://img.shields.io/badge/-saymonnnvict0r@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&color=grey&link=mailto:saymonnnvict0r@gmail.com)](mailto:saymonnnvict0r@gmail.com)
 
 - :books: I'm Technology enthusiast and love studying programming
 - :rocket: I intend to learn full stack technologies
