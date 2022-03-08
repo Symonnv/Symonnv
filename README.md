@@ -7,8 +7,6 @@
 - :rocket: I intend to learn full stack technologies
 - :art: I love drawing
 
-#### I want to transform the lines of codes into ideas, just like I do on paper with my drawings!
-
 ##
 
 <div>
