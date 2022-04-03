@@ -3,7 +3,7 @@
 <a href = "mailto:saymonnnvict0r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/saymonvictor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 📌 I'm brazilian and I'm 18 years old
+- 📌 I'm an eletronics technician, brazilian and I'm 18 years old
 - 📚 I'm a programming student and I love the entire technology ecosystem
 - 🎯 I'm currenty looking to specialize in **front-end** technologies
 - 💻 I love programming, it's one of my favorite hobbies... besides drawing 🎨
