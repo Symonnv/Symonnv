@@ -10,17 +10,15 @@
 - :computer: I love programming, it is one of my favorite hobbies... besides drawing :art:
 
 <div>
- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=truee"/>
- <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symonnv&layout=compact&langs_count=16&theme=material-palenight"/>
+ <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=truee"/>
+ <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symonnv&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
 ##
 
 ### 🛠&nbsp;Tech Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-
+![HTML](https://img.shields.io/badge/-HTML-292d3e?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-292d3e?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-292d3e?style=flat-square&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-292d3e?style=flat-square&logo=git)&nbsp;
