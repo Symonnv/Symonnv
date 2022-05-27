@@ -10,7 +10,7 @@
 - :computer: I love programming, it is one of my favorite hobbies... besides drawing :art:
 
 <div>
- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=truee"/>
+ <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=truee"/>
  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symonnv&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
