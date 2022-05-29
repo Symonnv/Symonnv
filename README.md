@@ -6,7 +6,7 @@
 
 - :pushpin: I'm an electronics technician and programming student
 - :rocket: I love this whole technological ecosystem and I am willing to develop more and more as a programmer
-- :books: I'm currently looking to specialize in front-end technologies, but I am very interested in the back-end
+- :books: I intend to become a fullstack developer, with focus on the front-end
 - :computer: I love programming, it is one of my favorite hobbies... besides drawing :art:
 
 <div>
