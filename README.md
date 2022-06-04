@@ -4,10 +4,10 @@
 <a href="https://www.linkedin.com/in/saymonvictor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:saymonnnvict0r@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-- :pushpin: I'm an electronics technician and programming student
-- :rocket: I love this whole technological ecosystem and I am willing to develop more and more as a programmer
-- :books: I intend to become a fullstack developer, with focus on the front-end
-- :computer: I love programming, it is one of my favorite hobbies... besides drawing :art:
+- 📌 I'm an electronics technician and programming student
+- 🚀 I love this whole technological ecosystem and I am willing to develop more and more as a programmer
+- 📚 I intend to become a fullstack developer, with focus on the front-end
+- 💻 I love programming, it is one of my favorite hobbies... besides drawing :art:
 
 <div>
  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Symonnv&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=truee"/>
@@ -16,7 +16,7 @@
 
 ##
 
-### 🛠&nbsp;Tech Stack:
+### 🛠️ Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-292d3e?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-292d3e?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
