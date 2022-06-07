@@ -22,3 +22,5 @@
 ![CSS](https://img.shields.io/badge/-CSS-292d3e?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-292d3e?style=flat-square&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-292d3e?style=flat-square&logo=git)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-292d3e?style=flat-square&logo=sass)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-292d3e?style=flat-square&logo=nodedotjs)&nbsp;
